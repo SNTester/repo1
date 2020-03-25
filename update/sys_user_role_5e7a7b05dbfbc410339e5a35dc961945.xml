@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_training_ew.test_table_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>test_table_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>eric.weischedel@snc</sys_created_by>
+        <sys_created_on>2020-03-25 17:42:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5e7a7b05dbfbc410339e5a35dc961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_training_ew.test_table_user</sys_name>
+        <sys_package display_value="Training EW 325" source="x_snc_training_ew">2e99f3c1dbfbc410339e5a35dc9619d6</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Training EW 325">2e99f3c1dbfbc410339e5a35dc9619d6</sys_scope>
+        <sys_update_name>sys_user_role_5e7a7b05dbfbc410339e5a35dc961945</sys_update_name>
+        <sys_updated_by>eric.weischedel@snc</sys_updated_by>
+        <sys_updated_on>2020-03-25 17:42:10</sys_updated_on>
+    </sys_user_role>
+</record_update>
