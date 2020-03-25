@@ -54,16 +54,16 @@
         <sys_created_by>eric.weischedel@snc</sys_created_by>
         <sys_created_on>2020-03-25 17:42:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>ee7a7b05dbfbc410339e5a35dc961995</sys_id>
+        <sys_id>c1b4ac15db7fc410339e5a35dc961989</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_training_ew_test_table</sys_name>
         <sys_package display_value="Training EW 325" source="x_snc_training_ew">2e99f3c1dbfbc410339e5a35dc9619d6</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Training EW 325">2e99f3c1dbfbc410339e5a35dc9619d6</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_training_ew_test_table_null</sys_update_name>
-        <sys_updated_by>eric.weischedel@snc</sys_updated_by>
-        <sys_updated_on>2020-03-25 17:42:12</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_training_ew_test_table_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-03-25 20:46:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
