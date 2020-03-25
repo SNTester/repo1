@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_training_ew_test_table">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="textfield1" table="x_snc_training_ew_second_table">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>TextField1</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,15 +27,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>textfield1</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_snc_training_ew_test_table</name>
+        <name>x_snc_training_ew_second_table</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,18 +52,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>eric.weischedel@snc</sys_created_by>
-        <sys_created_on>2020-03-25 17:42:12</sys_created_on>
+        <sys_created_on>2020-03-25 20:51:50</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>c106e459db7fc410339e5a35dc9619c4</sys_id>
+        <sys_id>a9b52059db7fc410339e5a35dc961955</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_training_ew_test_table</sys_name>
+        <sys_name>TextField1</sys_name>
         <sys_package display_value="Training EW 325" source="x_snc_training_ew">2e99f3c1dbfbc410339e5a35dc9619d6</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Training EW 325">2e99f3c1dbfbc410339e5a35dc9619d6</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_training_ew_test_table_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-03-25 20:52:25</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_training_ew_second_table_textfield1</sys_update_name>
+        <sys_updated_by>eric.weischedel@snc</sys_updated_by>
+        <sys_updated_on>2020-03-25 20:51:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
